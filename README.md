@@ -4,7 +4,9 @@ A collection of FPGA-based mini and mid-scale projects focused on real-time vide
 
 ---
 
-# HDMI_Input_Output_With_Color_Inversion
+# Projects Included
+
+## Real Time FPGA Based Color Inversion Pipeline
 
 Real-time HDMI video processing project using **PYNQ-Z2 FPGA**, **Verilog HDL**, and **Vivado Design Suite**.
 
@@ -58,6 +60,7 @@ The incoming RGB pixel stream is inverted in real time using a pipelined hardwar
 # Output Result
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d2bb15e2-8ace-4e9a-b201-709ab847eaae" />
+
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/20e6f4f5-1a92-464d-a0a1-57a570013b51" />
 
 ---
